@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button{
+    padding: 15px;
+    font-size: 20px;
+    color: white;
+    background-color: #0f1b85;
+    border: none;
+    border-radius: 5px;
+}
